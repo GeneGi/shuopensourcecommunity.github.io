@@ -8,10 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : 上海大学开源社区
+title : 上海大学开源社区 SHU Open Sourece Community
 tagline: Site Tagline
 author :
-  name : Name Lastname
+  name : 上海大学开源社区 SHU Open Source Community
   email : blah@email.test
   github : username
   twitter : username

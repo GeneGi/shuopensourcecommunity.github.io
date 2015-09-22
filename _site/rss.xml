@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-        <title>Jekyll Bootstrap</title>
-        <description>Jekyll Bootstrap - Name Lastname</description>
+        <title>上海大学开源社区</title>
+        <description>上海大学开源社区 - 上海大学开源社区 SHU Open Source Community</description>
         <link>http://username.github.io</link>
         <atom:link href="http://username.github.io/rss.xml" rel="self" type="application/rss+xml" />
-        <lastBuildDate>Mon, 21 Sep 2015 14:17:20 +0800</lastBuildDate>
-        <pubDate>Mon, 21 Sep 2015 14:17:20 +0800</pubDate>
+        <lastBuildDate>Tue, 22 Sep 2015 14:31:09 +0800</lastBuildDate>
+        <pubDate>Tue, 22 Sep 2015 14:31:09 +0800</pubDate>
         <ttl>60</ttl>
 
 
