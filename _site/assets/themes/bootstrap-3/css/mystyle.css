@@ -2,8 +2,13 @@
   padding-right: 100px;
 }
 
+.navbar-brand {
+  margin-top: 20px;
+  line-height: 25px;
+}
 #logo {
   width: 50px;
+  margin-left: 100px;
 }
 
 #title {
